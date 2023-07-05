@@ -9,6 +9,10 @@ section {
     overflow-y: auto;
 }
 
+h3 {
+    color: green;
+}
+
 footer {
     background-color: #f2f2f2;
     padding: 10px;
