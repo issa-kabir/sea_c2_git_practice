@@ -9,8 +9,13 @@ section {
     overflow-y: auto;
 }
 
+
 h2 {
-    color: red;
+    color: darkgreen;
+}
+
+h3 {
+    color: green;
 }
 
 footer {
